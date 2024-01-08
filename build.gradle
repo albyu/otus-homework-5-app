@@ -44,7 +44,7 @@ dependencies {
 
 
 bootJar {
-    archiveBaseName = 'otus-homework'
-    archiveFileName = 'otus-homework.jar'
+    archiveBaseName = 'otus-homework-5-app'
+    archiveFileName = 'otus-homework-5-app.jar'
 }
 
